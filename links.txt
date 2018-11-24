@@ -1,3 +1,5 @@
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 https://developers.google.com/machine-learning/crash-course/ml-intro
+
+https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/class-videos/
